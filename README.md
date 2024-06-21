@@ -4,8 +4,8 @@
 # Overview and Steps
 Part 1: Setting Up SQL Server with SSMS
 Downloading SQL Server Installer and SSMS:
-https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
-https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=34b50cc0f48b62673d291864f5606320
+1. https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+2. https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=34b50cc0f48b62673d291864f5606320
 
 # What is SQL Server?
 SQL Server is a database management system developed by Microsoft. It’s software that helps you store, retrieve, and manage data efficiently. Think of it as a super-organized filing cabinet for all your data, where you can quickly find and use the information you need.
